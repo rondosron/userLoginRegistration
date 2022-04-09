@@ -1,0 +1,1 @@
+<a href="adminPage.php"><button>Admin panel</button></a>

@@ -1,0 +1,1 @@
+<a href="logOutLogic.php"><button>Log Out</button></a>
